@@ -1,2 +1,6 @@
-Git is a distributed version control system.
-Git is free software.
+目的为了抢到学术活动入场券
+1.输入学号
+2输入密码
+3输入验证码
+4开始/退出
+5监控模式/抢票模式
